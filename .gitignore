@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
@@ -6,3 +7,18 @@ R/
 man/
 NAMESPACE
 DESCRIPTION
+=======
+# History files
+.Rhistory
+.Rapp.history
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+>>>>>>> b1164d09c44120ee0c0e54cb60ebb0ecdcea4e06
